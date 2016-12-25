@@ -1,0 +1,17 @@
+C:\Users\Azzi\AppData\Local\Temporary Projects\Azzi Sprite Manager\bin\Debug\Azzi Sprite Manager.exe
+C:\Users\Azzi\AppData\Local\Temporary Projects\Azzi Sprite Manager\bin\Debug\Azzi Sprite Manager.pdb
+C:\Users\Azzi\AppData\Local\Temporary Projects\Azzi Sprite Manager\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Azzi\AppData\Local\Temporary Projects\Azzi Sprite Manager\obj\Debug\Azzi_Sprite_Manager.Form1.resources
+C:\Users\Azzi\AppData\Local\Temporary Projects\Azzi Sprite Manager\obj\Debug\Azzi_Sprite_Manager.Properties.Resources.resources
+C:\Users\Azzi\AppData\Local\Temporary Projects\Azzi Sprite Manager\obj\Debug\Azzi Sprite Manager.csproj.GenerateResource.Cache
+C:\Users\Azzi\AppData\Local\Temporary Projects\Azzi Sprite Manager\obj\Debug\Azzi Sprite Manager.exe
+C:\Users\Azzi\AppData\Local\Temporary Projects\Azzi Sprite Manager\obj\Debug\Azzi Sprite Manager.pdb
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Manager\Azzi Sprite Manager\obj\Debug\Azzi Sprite Manager.exe
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Manager\Azzi Sprite Manager\obj\Debug\Azzi Sprite Manager.pdb
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Manager\Azzi Sprite Manager\bin\Debug\Azzi Sprite Manager.exe
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Manager\Azzi Sprite Manager\bin\Debug\Azzi Sprite Manager.pdb
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Manager\Azzi Sprite Manager\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Manager\Azzi Sprite Manager\obj\Debug\Azzi_Sprite_Manager.asm.resources
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Manager\Azzi Sprite Manager\obj\Debug\Azzi_Sprite_Manager.Properties.Resources.resources
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Manager\Azzi Sprite Manager\obj\Debug\Azzi Sprite Manager.csproj.GenerateResource.Cache
+C:\Users\Azzi\Documents\Visual Studio 2008\Projects\Azzi Sprite Manager\Azzi Sprite Manager\obj\Debug\Azzi_Sprite_Manager.About.resources
